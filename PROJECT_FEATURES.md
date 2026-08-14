@@ -21,3 +21,5 @@ The system now stores the credit hours of every student.
 The system now stores the status of every student.
 ## Improved Student Name Capacity
 The system now supports student names of up to 100 characters.
+## Improved Student Address Capacity
+The system now supports longer student addresses.
