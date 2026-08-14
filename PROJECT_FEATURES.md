@@ -27,3 +27,5 @@ The system now supports longer student addresses.
 The phone number field capacity has been increased from 20 to 25 characters.
 ## Student ID Field
 The Student ID field has been renamed from 'id' to 'studentId'.
+## Student Name Field
+The student name field has been renamed from `name` to `studentName`.
