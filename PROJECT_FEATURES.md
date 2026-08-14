@@ -15,3 +15,5 @@ The system now stores the address of every student.
 The system now stores the gender of every student.
 ## Student Semester
 The system now stores the semester of every student.
+## Student Credit Hours
+The system now stores the credit hours of every student.
