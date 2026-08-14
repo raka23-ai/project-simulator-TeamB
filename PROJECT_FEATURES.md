@@ -17,3 +17,15 @@ The system now stores the gender of every student.
 The system now stores the semester of every student.
 ## Student Credit Hours
 The system now stores the credit hours of every student.
+## Student Status
+The system now stores the status of every student.
+## Improved Student Name Capacity
+The system now supports student names of up to 100 characters.
+## Improved Student Address Capacity
+The student address field capacity has been increased from 100 to 200 characters.
+## Improved Phone Number Capacity
+The phone number field capacity has been increased from 20 to 25 characters.
+## Student ID Field
+The Student ID field has been renamed from 'id' to 'studentId'.
+## Student Name Field
+The student name field has been renamed from `name` to `studentName`.
